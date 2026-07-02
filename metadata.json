@@ -1,0 +1,6 @@
+{
+  "name": "Nuvix Creator Platform",
+  "description": "A polished, modern full-stack creator platform enabling link-in-bio, digital product sales, profile editing, and dual Supabase/offline persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
